@@ -273,3 +273,6 @@ DEFINES += GC_VIDEO_NONE             # dont add any video playback support
 #DEFINES +=GC_CLOUD_DB_BASIC_AUTH=
 #DEFINES +=GC_CLOUD_DB_APP_NAME=
 #CloudDB = active
+DEFINES += GC_STRAVA_CLIENT_ID=\\\"28841\\\"
+
+DEFINES += GC_STRAVA_CLIENT_SECRET=\\\"abc99326cc4a459212e34fbfd2e8cb496d0c3b06\\\"
